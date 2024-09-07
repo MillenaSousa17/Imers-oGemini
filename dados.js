@@ -92,15 +92,6 @@ let dados = [
         tags: "super-herói, nova york, aranha"
     },
     {
-        imagem: "img/thelastofus.jfif", // Substitua pelo caminho da sua imagem
-        titulo: "The Last of Us",
-        descricao: "The Last of Us é uma franquia de jogos eletrônicos de ação-aventura, tiro em terceira pessoa e survival horror exclusiva da Sony para os consoles da PlayStation, criada por Neil Druckmann",
-        informacoes: "https://www.playstation.com/en-us/games/the-last-of-us/",
-        lancamento: "14 de junho de 2013",
-        genero: "ação, aventura, survival horror",
-        tags: "zumbi, apocalipse, survival"
-    },
-    {
         imagem: "img/resident4.jfif", // Substitua pelo caminho da sua imagem
         titulo: "Resident Evil 4",
         descricao: "Um agente especial é enviado para uma vila isolada para resgatar a filha do presidente, mas encontra horrores inimagináveis.",
