@@ -28,4 +28,11 @@ Quer ajudar a melhorar essa aplicação? Fique à vontade para abrir um pull req
 * **CSS:** Para deixar a aplicação bonita e fácil de usar.
 * **JavaScript:** A mágica por trás da busca e da exibição dos resultados.
 
+* 
+![Opera Instantâneo_2024-09-06_212207_imers-o-gemini vercel app](https://github.com/user-attachments/assets/4e371c23-e143-413c-9086-2e4efecdfeab)
+
+* #game #jogos #desenvolvimentoweb #javascript #html #css #github
+
+
+
 
